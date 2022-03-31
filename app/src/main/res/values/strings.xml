@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Casino Royale</string>
+    <string name="roll">TURN</string>
+    <string name="roulette_num" />
+</resources>
