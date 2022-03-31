@@ -1,10 +1,9 @@
 package com.example.roulettewheel
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
-import com.example.roulettewheel.R
+import androidx.appcompat.app.AppCompatActivity
 
 /**
  ** This activity allows the user to turn a roulette wheel and view the result
